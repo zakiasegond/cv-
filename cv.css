@@ -1,0 +1,83 @@
+#titre{
+	text-align: center;
+	font-size: 50px;
+
+}
+
+.page {
+	margin: auto;
+	font-size: 16px;
+	font-family: Calibri, Tahoma, sans-serif;
+}
+
+body{
+	background-image: url(restaurant.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 400px 200px;
+}
+
+
+
+
+
+.section{
+	margin-bottom: 70px;
+
+}
+.sec-gauche{
+	float: left;
+}
+
+.sec-droite{
+	margin-left: 150px;
+}
+
+.un{
+	margin-left: 70px;
+}
+
+.deux{
+	margin-left: 70px;
+}
+
+
+.deuxdeux{
+	margin-left: 140px;
+}
+
+h5 {
+	margin-left: 70px;
+	font-size: 20px;
+	padding-top: 15%;
+}
+
+.zero{
+	margin-left: 70px
+}
+
+h4 {
+	margin-left: 70px;
+	font-size: 20px;
+	padding-top: 10%;
+}
+
+
+
+h3 {
+	margin-left: 70px;
+	font-size: 20px;
+	padding-top: 10%;
+}
+
+
+h2 {
+	margin-left: 70px;
+	font-size: 20px;
+	padding-top: 10%;
+}
+
+.info{
+	margin-left: : 10px;
+}
+
