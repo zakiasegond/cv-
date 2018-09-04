@@ -1,83 +1,80 @@
-#titre{
+#titre
+{
 	text-align: center;
-	font-size: 50px;
-
+	font-size: 30px;
 }
 
-.page {
-	margin: auto;
+
+
+.page 
+{
+
+	margin-left: 500px;
 	font-size: 16px;
 	font-family: Calibri, Tahoma, sans-serif;
+	
 }
 
-body{
-	background-image: url(restaurant.jpg);
+
+
+.img1
+{
+	background-image: url(gratuitter.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 400px 200px;
+	background-size: cover;	
 }
 
 
 
-
-
-.section{
-	margin-bottom: 70px;
-
-}
-.sec-gauche{
-	float: left;
+#img2
+{
+	background-image: url(peinture.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
-.sec-droite{
-	margin-left: 150px;
+
+#img3
+{
+	background-image: url(clavier.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
-.un{
+
+li
+{
+	list-style-type: none;
+}
+
+
+
+.transparent
+{
+	background-color: rgba(255,255,255,0.6);
+}
+
+
+h5 
+{
 	margin-left: 70px;
-}
+	font-size: 15px;
+	color: blue;
 
-.deux{
-	margin-left: 70px;
-}
-
-
-.deuxdeux{
-	margin-left: 140px;
-}
-
-h5 {
-	margin-left: 70px;
-	font-size: 20px;
-	padding-top: 15%;
-}
-
-.zero{
-	margin-left: 70px
-}
-
-h4 {
-	margin-left: 70px;
-	font-size: 20px;
-	padding-top: 10%;
 }
 
 
-
-h3 {
-	margin-left: 70px;
-	font-size: 20px;
-	padding-top: 10%;
+body
+{
+	font-size: 15px;
 }
 
 
-h2 {
-	margin-left: 70px;
-	font-size: 20px;
-	padding-top: 10%;
-}
-
-.info{
-	margin-left: : 10px;
+#theme
+{
+	text-align: center;
 }
 
